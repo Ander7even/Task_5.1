@@ -8,7 +8,7 @@ namespace Task_5._1
 {
     class Program
     {
-        static void Main(string[] args)          //метод нахождения среднего арифметического массива
+        static void Main(string[] args)      //метод нахождения среднего арифметического массива
         {
 
             Console.WriteLine("Введите семь чисел массива массива");
